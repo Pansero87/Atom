@@ -1,0 +1,25 @@
+
+Makefile
+
+- make setup
+
+Actualitza el sistema i instala el repositori necessari.
+
+- make install
+Al ser en aquest cas un programa portable, seleccionar la carpeta on desitges portar el programa.
+
+Descarrega des de el enllaç la última versió de Atom i descompremeix el arxiu .tar.gz
+
+Per a poder iniciar el programa cal anar a la carpeta descomprimida i executar el arxiu atom.
+
+- make update
+
+Aquest programa no té actualitzacions automàtiques pe part del sistema operatiu. S`ha de repetir els anterior pasos per a tornar installar en el sistema operatiu.
+
+- make delete
+
+Borra les carpetes del directori on està descarregat el programa.   
+
+- make clone
+
+per a descàrregar el repositori en el directori desitjat.
